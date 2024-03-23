@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tuto_machineLearnia.iml" filepath="$PROJECT_DIR$/.idea/Tuto_machineLearnia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emjako/.idea/emjako.iml" filepath="$PROJECT_DIR$/emjako/.idea/emjako.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matplotlib/.idea/matplotlib.iml" filepath="$PROJECT_DIR$/matplotlib/.idea/matplotlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pandas/.idea/pandas.iml" filepath="$PROJECT_DIR$/pandas/.idea/pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sklearn/.idea/sklearn.iml" filepath="$PROJECT_DIR$/sklearn/.idea/sklearn.iml" />
+    </modules>
+  </component>
+</project>
