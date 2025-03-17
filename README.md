@@ -1,2 +1,2 @@
 # DataSphere
-Dive into the vast world of data with our AI-driven solutions
+Dive into the vast world of data with  AI-driven solutions and techniques
